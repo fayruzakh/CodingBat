@@ -1,7 +1,7 @@
 package CodingBat;
 
 public class Solutions {
-    //1 countEvens
+    //1 countEvens edited after creating the newbranch
     public int countEvens(int[] nums) {
         int count = 0;
         for (int i = 0; i < nums.length; i++) {
